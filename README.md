@@ -35,5 +35,12 @@ Inteligência Artificial: Modelos para definição de padrões e previsões de c
 
 Infraestrutura de Energia: Inversores fotovoltaicos, carregadores de VE e baterias integrados no ecossistema ChargeGrid.  
 
-# Fundamentos da solução  
+# Fundamentos da solução 
+Integração Energética: O sistema ChargeGrid une carregadores, inversores e baterias para garantir que o veículo priorize sempre a energia mais limpa e barata disponível.  
+
+Aproveitamento Solar: O foco está no autoconsumo, utilizando a comunicação entre o inversor e o carregador para evitar o desperdício do excedente de energia gerado pelos painéis solares.  
+
+Gestão Inteligente (DLM): Através do Balanceamento Dinâmico, o sistema ajusta a potência da recarga em tempo real de acordo com a produção solar e o consumo do local, protegendo a rede elétrica.  
+
+Previsibilidade com IA: A Inteligência Artificial é usada para prever padrões de consumo e variações na geração de energia renovável, otimizando o uso dos recursos mesmo em cenários de alta volatilidade.
 
