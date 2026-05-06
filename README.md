@@ -33,4 +33,7 @@ Protocolos de Comunicação: OCPP e Modbus
 
 Inteligência Artificial: Modelos para definição de padrões e previsões de comportamento para otimizar a experiência do usuário e lidar com a volatilidade de preços.  
 
-Infraestrutura de Energia: Inversores fotovoltaicos, carregadores de VE e baterias integrados no ecossistema ChargeGrid.
+Infraestrutura de Energia: Inversores fotovoltaicos, carregadores de VE e baterias integrados no ecossistema ChargeGrid.  
+
+# Fundamentos da solução  
+
